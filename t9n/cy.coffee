@@ -61,11 +61,11 @@ en =
     passwordReset: "Ail-osodwyd y cyfrinair"
 
   alert:
-    ok: 'Ok'
+    ok: 'Iawn'
     type:
-      info: 'Notice'
-      error: 'Error'
-      warning: 'Warning'
+      info: 'Gwybodaeth'
+      error: 'Gwall'
+      warning: 'Rhybudd'
 
   error:
     emailRequired: "Mae e-bost yn ofynnol."
